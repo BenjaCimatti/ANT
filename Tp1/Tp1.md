@@ -16,6 +16,7 @@
 ## 1. Instalar Git
 
 ![](<images/1.png>)
+
 Como se puede observar en la imagen, git ya se encontraba  instalado en su versión 2.17.1
 
 ---
@@ -26,8 +27,11 @@ benjamin@benjamin-Lenovo-Z40-75:~/Borrar/Repo TP1$ git init
 Inicializado repositorio Git vacío en /home/benjamin/Borrar/Repo TP1/.git/
 ```
 ![](<images/2.png>)
+
 ![](<images/3.png>)
+
 ![](<images/4.png>)
+
 ![](<images/5.png>)
 
 ---
@@ -62,7 +66,9 @@ Rama 'main' configurada para hacer seguimiento a la rama remota 'main' de 'origi
 benjamin@benjamin-Lenovo-Z40-75:~/Borrar/Repo TP1$ touch pullrequest.md
 ```
 ![](<images/7.1.png>)
+
 ![](<images/7.2.png>)
+
 ![](<images/8.png>)
 
 ```bash
@@ -73,18 +79,26 @@ benjamin@benjamin-Lenovo-Z40-75:~/Borrar/Repo TP1$ git commit -m "Nueva rama, co
 ```
 
 ![](<images/9.png>)
+
 ![](<images/10.png>)
+
 ![](<images/11.png>)
+
 ![](<images/12.png>)
+
 ![](<images/13.png>)
 
 ---
 ## 5. Mergear código con conflictos
 
 ![](<images/15.png>)
+
 ![](<images/14.png>)
+
 ![](<images/16.png>)
+
 ![](<images/17.png>)
+
 ```bash
 benjamin@benjamin-Lenovo-Z40-75:~/Borrar/Repo TP1$ git push -u origin main
 Username for 'https://github.com': BenjaCimatti	
@@ -99,29 +113,37 @@ To https://github.com/BenjaCimatti/Repo-TP1.git
 Rama 'main' configurada para hacer seguimiento a la rama remota 'main' de 'origin'.
 ```
 ![](<images/18.png>)
+
 ![](<images/19.png>)
+
 ![](<images/20.png>)
+
 ![](<images/21.png>)
 
 - LOCAL es la version local de la rama
 - REMOTE es la version remota de la rama
-- BASE es una version de la rama con el merge a medio terminar
-donde los conflictos estan marcados:
+- BASE es una version de la rama con el merge a medio terminar donde los conflictos estan marcados:
 
 El codigo entre <<<< HEAD y ===== es lo que existe en la version local
 
 El codigo entre ===== y >>>> es lo que existe en la version remota
 
 ![](<images/22.png>)
+
 ![](<images/23.png>)
+
 ![](<images/24.png>)
 
 ## 6. Algunos ejercicios online
 
 ![](<images/25.png>)
+
 ![](<images/26.png>)
+
 ![](<images/27.png>)
+
 ![](<images/28.png>)
+
 ![](<images/29.png>)
 
 ## 7. Crear Repositorio de la materia
