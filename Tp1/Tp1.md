@@ -1,14 +1,25 @@
-#Trabajo Práctico N°1:
-######Sistemas de control de versiones
+# Trabajo Práctico N°1:
+###### Sistemas de control de versiones
 
 ---
-##1. Instalar Git
+## Índice
+
+- [1. Instalar Git](#1-instalar-git)
+- [2. Crear un repositorio local y agregar archivos](#2-crear-un-repositorio-local-y-agregar-archivos)
+- [3. Crear un repositorio remoto](#3-crear-un-repositorio-remoto)
+- [4. Familiarizarse con el concepto de Pull Request](#4-familiarizarse-con-el-concepto-de-pull-request)
+- [5. Mergear código con conflictos](#5-mergear-código-con-conflictos)
+- [6. Algunos ejercicios online](#6-algunos-ejercicios-online)
+- [7. Crear Repositorio de la materia](#7-crear-repositorio-de-la-materia)
+
+---
+## 1. Instalar Git
 
 ![](<images/1.png>)
 Como se puede observar en la imagen, git ya se encontraba  instalado en su versión 2.17.1
 
 ---
-##2. Crear un repositorio local y agregar archivos
+## 2. Crear un repositorio local y agregar archivos
 
 ```bash
 benjamin@benjamin-Lenovo-Z40-75:~/Borrar/Repo TP1$ git init
@@ -20,7 +31,7 @@ Inicializado repositorio Git vacío en /home/benjamin/Borrar/Repo TP1/.git/
 ![](<images/5.png>)
 
 ---
-##3. Crear un repositorio remoto
+## 3. Crear un repositorio remoto
 
 ![](<images/6.png>)
 
@@ -43,7 +54,7 @@ Rama 'main' configurada para hacer seguimiento a la rama remota 'main' de 'origi
 ```
 
 ---
-##4. Familiarizarse con el concepto de Pull Request
+## 4. Familiarizarse con el concepto de Pull Request
 
 ![](<images/7.png>)
 
@@ -68,7 +79,7 @@ benjamin@benjamin-Lenovo-Z40-75:~/Borrar/Repo TP1$ git commit -m "Nueva rama, co
 ![](<images/13.png>)
 
 ---
-##5. Mergear código con conflictos
+## 5. Mergear código con conflictos
 
 ![](<images/15.png>)
 ![](<images/14.png>)
@@ -105,7 +116,7 @@ El codigo entre ===== y >>>> es lo que existe en la version remota
 ![](<images/23.png>)
 ![](<images/24.png>)
 
-##6. Algunos ejercicios online
+## 6. Algunos ejercicios online
 
 ![](<images/25.png>)
 ![](<images/26.png>)
@@ -113,6 +124,6 @@ El codigo entre ===== y >>>> es lo que existe en la version remota
 ![](<images/28.png>)
 ![](<images/29.png>)
 
-##7. Crear Repositorio de la materia
+## 7. Crear Repositorio de la materia
 
-https://github.com/BenjaCimatti/ANT
+- https://github.com/BenjaCimatti/ANT

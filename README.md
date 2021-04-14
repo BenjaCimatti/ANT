@@ -3,7 +3,7 @@ Repositorio para la materia Aplicación de Nuevas Tecnologías
 
 ---
 
-###Trabajos Prácticos
+### Trabajos Prácticos
 
 A continuación se encuentran los diferentes Trabajos Prácticos de la materia:
 
